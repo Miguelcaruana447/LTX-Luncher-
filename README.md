@@ -13,4 +13,7 @@ Installation Instructions
 To install the app, please visit the Releases section of this repository.
 
 Support
-If you encounter any issues or have questions, feel free to contact us via email at ltx.modified@gmail.com or join our Discord server for support and community discussions.
+If you encounter any issues or have questions, feel free to contact us via email at ltx.modified@gmail.com or join our Discord server for support and community discussions:
+
+Discord Server: https://discord.gg/WVtUpcBJ
+
